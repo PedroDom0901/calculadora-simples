@@ -2,13 +2,11 @@
 
 <br>
 
+<pre>Esta calculadora foi desenvolvida no intuito de praticar meus conhecimentos em HTML, CSS e JavaScript. 
+
 <p align="center">
   <img alt="" src=".github/calculadora.png" width="100%">
 </p>
-
-## Utilize a calculadora
-
-<p><a href="http://127.0.0.1:5500/index.html" target="_blank">Teste aqui</a></p>
 
 ## Tecnologias
 
