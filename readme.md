@@ -10,6 +10,10 @@ HTML, CSS e JavaScript. </pre>
   <img alt="" src=".github/calculadora.png" width="100%">
 </p>
 
+##Teste a Calculadora
+
+<a href="https://pedrodom0901.github.io/calculadora-simples/"> Click aqui </a>
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
