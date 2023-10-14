@@ -12,7 +12,7 @@ HTML, CSS e JavaScript. </pre>
 
 ##Teste a Calculadora
 
-<a href="https://pedrodom0901.github.io/calculadora-simples/" target="blank"> Click aqui </a>
+<a href="https://pedrodom0901.github.io/calculadora-simples/" target="_blank"> Click aqui </a>
 
 ## Tecnologias
 
