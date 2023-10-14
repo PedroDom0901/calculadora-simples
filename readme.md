@@ -8,7 +8,7 @@
 
 ## Utilize a calculadora
 
-<p><a href="http://127.0.0.1:5500/index.html" target="_blank">Teste aqui</a></p>
+<p><a href="https://pedrodom0901.github.io/calculadora-simples/" target="_blank">Teste aqui</a></p>
 
 ## Tecnologias
 
