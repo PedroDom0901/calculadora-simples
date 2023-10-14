@@ -2,13 +2,17 @@
 
 <br>
 
+<pre>Esta calculadora foi desenvolvida com o 
+intuito de praticar meus conhecimentos em 
+HTML, CSS e JavaScript. </pre>
+
 <p align="center">
   <img alt="" src=".github/calculadora.png" width="100%">
 </p>
 
-## Utilize a calculadora
+## Teste a Calculadora
 
-<p><a href="https://pedrodom0901.github.io/calculadora-simples/" target="_blank">Teste aqui</a></p>
+<a href="https://pedrodom0901.github.io/calculadora-simples/" target="_blank"> Click aqui </a>
 
 ## Tecnologias
 
