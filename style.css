@@ -35,6 +35,9 @@
 }
 
 #resultado{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     margin: 5px;
     height: 40px;
     background-color: white;
