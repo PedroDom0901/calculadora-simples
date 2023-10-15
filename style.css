@@ -17,6 +17,7 @@
     transform: translate(-50%,-50%);
     border: 1px solid red;
     border-radius: 15px;
+    border:1px solid red;
     background-color: rgba(20, 15, 15, 0.827);
     text-align: center;
 }
