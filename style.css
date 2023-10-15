@@ -15,6 +15,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    border: 1px solid red;
     border-radius: 15px;
     background-color: rgba(20, 15, 15, 0.827);
     text-align: center;
@@ -26,7 +27,7 @@
     font-size: 25px;
     color: white;
     background-color: rgb(31, 31, 31);
-    border: none;
+    border-style: 1px ridge;
     cursor: pointer;
     margin: 3px;
 }
